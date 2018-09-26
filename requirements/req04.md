@@ -15,12 +15,12 @@ TODO: Resource links -->
 
 ## Ownership vs Licensing
 
-### First-Sale Doctrine
+### **First-Sale Doctrine**
 When you buy a physical object, you "own" that product. You have full rights to re-sell it, rent it, lend it, or give it away.
 
 The new owner of that product has the same rights that you had on the object.
 
-### Licensing and "Terms and Conditions"
+### **Licensing and "Terms and Conditions"**
 When you "buy" a piece of software, you don't own the software. The copyright owner (aka the company) allows you to use the software under a set of license agreements *(You know, the Terms and Conditions page that you never read)*
 
 There are many different types of licenses that companies can use with their software. Often they are in terms of users and devices.
