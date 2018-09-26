@@ -4,12 +4,9 @@
 > 2. Discuss with your counselor the history of programming and the evolution of programming languages.
 
 ## Computing/Programming Milestones
-```mermaid
-graph TD;
-A[Date<br> Event]
-    -->B[Date<br>Event]
-B-->C[Date<br>Event];
-```
+Date | Event
+:---:|:--
+1492 | Columbus sailed the ocean blue
 
 ## Resources
 - [Timeline of Computer History](http://www.computerhistory.org/timeline/)
