@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Fahrenheit to Celsius Calculator </title>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.js" integrity="sha256-fNXJFIlca05BIO2Y5zh1xrShK3ME+/lYZ0j+ChxX2DA="
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <label>Fehrenheit</label><br>
+    <input placeholder="Fehrenheit" id="fehrenheit_input" />
+
+    <br>
+    to
+    <br>
+
+    <label>Celsius</label><br>
+    <input placeholder="Celsius" id="celcius_output" />
+
+    <button id="calculate">Calculate</button>
+
+    <script>
+        $("#calculate").click(function () {
+            let fehrenheit = $("#fehrenheit_input").val()
+            let celsuis = (fehrenheit - 32) * (5 / 9)
+            $("#celcius_output").val(Math.round(celsuis))
+        })
+    </script>
+</body>
+
+</html>
