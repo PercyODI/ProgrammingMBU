@@ -20,7 +20,7 @@ for guessesTaken in range(6):
         print("Your guess is too high.")
 
     if guess == number:
-        break;
+        break
 
 if guess == number:
     guessesTaken = str(guessesTaken + 1)
