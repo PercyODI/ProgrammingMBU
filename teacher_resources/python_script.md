@@ -30,14 +30,14 @@ As you have seen, a value by itself is still evaluated by Python down to a singl
 > What other operators can we try?
 
 Operator | Definition | Example
---|--|--
-+ | Addition | 2 + 2 = 4
-- | Subtraction | 5 - 2 = 3
-* | Multiplication | 3 * 5 = 15
-/ | Division | 22 / 8 = 2.75
-** | Exponent | 2 ** 3 = 8
-// | Integer division | 22 / 8 = 2
-% | Modulus / Remainder | 22 % 8 = 6
+| --|--|-- |
+| + | Addition | 2 + 2 = 4 |
+| - | Subtraction | 5 - 2 = 3 |
+| * | Multiplication | 3 * 5 = 15 |
+| / | Division | 22 / 8 = 2.75 |
+| ** | Exponent | 2 ** 3 = 8 |
+| // | Integer division | 22 / 8 = 2 |
+| % | Modulus / Remainder | 22 % 8 = 6 |
 
 Order of Operations matters. Do you remember PEMDAS?
 Parentheses -> Exponents -> Multiplication/Division -> Addition/Subtraction.
