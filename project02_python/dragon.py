@@ -6,7 +6,7 @@ def displayIntro():
 you see two caves. In one cave, the dragon is friendly
 and will share his treasure with you. The other dragon
 is greedy and hungry, and will eat you on sight.''')
-print()
+print('')
 
 def chooseCave():
     cave = ''
@@ -22,7 +22,7 @@ def checkCave(chosenCave):
     print('It is dark and spooky...')
     time.sleep(2)
     print('A large dragon jumps out in front of you! He opens his jaws and...')
-    print()
+    print('')
     time.sleep(2)
 
     friendlyCave = random.randint(1, 2)
