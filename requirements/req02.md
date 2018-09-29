@@ -6,7 +6,12 @@
 ## Computing/Programming Milestones
 Date | Event
 :---:|:--
-1492 | Columbus sailed the ocean blue
+1828 | Charles Babbage made the difference engine with a 20 decimal capacity
+1933 | Telex messaging network comes online. Developed by  Reichspost.
+1984 | Apple released the Macintosh Computer. Changed the computer era forever
+1995 | Javascript invented. Brendan Eich invented Javascript for Netscape
+1996 | James Gossling Released Java 1.0. "Write Once, Run Everywhere"
+ 
 
 ## Resources
 - [Timeline of Computer History](http://www.computerhistory.org/timeline/)
