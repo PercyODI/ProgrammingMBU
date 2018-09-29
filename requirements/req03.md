@@ -21,3 +21,28 @@ Language | Year Invented | Industries
 | Elixir | 2011 | Web Development and Embedded Systems |
 
 ## Programmed Devices You Rely On
+1. Computer
+2. Phone
+3. IPad
+4. Satellites 
+5. TV
+6. XBox
+7. Playstation
+8. Nintendo
+9. Smart Light
+10. Echo / Alexa
+11. Google Home
+12. Smart Watch
+13. Projectors
+14. Wireless Router
+15. Smart Board
+16. Roomba
+17. Apple TV
+18. Headphones
+19. iPod
+20. Speakers
+21. Firestick/ ChromeCast
+22. Monitors
+23. Cameras
+24. Smart Home
+25. Smart ***Anything***
